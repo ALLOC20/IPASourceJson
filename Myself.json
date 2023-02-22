@@ -1,0 +1,37 @@
+{
+  "name": "ALLOC",
+  "identifier": "com.SideStore.SideStore",
+  "sourceURL": "https://raw.githubusercontent.com/ALLOC20/SideStoreJson/main/Myself.json",
+  "apps": [
+    {
+      "name": "轻松签-ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "yyy",
+      "version": "4.7.6",
+      "versionDate": "2023-02-18T23:10:00+08:00",
+      "versionDescription": "修复文件列表直接安装ipa闪退bug。\nfix file list install ipa bug",
+      "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.7.6_unsigned.ipa",
+      "localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
+      "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 8608965,
+      "type": 1
+     },
+     {
+      "name": "Blacklist",
+      "bundleIdentifier": "com.alloc.blacklist",
+      "developerName": "ALLOC",
+      "version": "1.0.2",
+      "versionDate": "2023-02-22T23:10:00+08:00",
+      "versionDescription": "更改bundleid为com.alloc.blacklist，修复无法使用SideStore安装的问题",
+      "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.7.6_unsigned.ipa",
+      "localizedDescription": "《Blacklist》是支持 iOS15 ~ iOS 16.1.2证书被撤销失效之后可以让你正常打开使用这些证书签名的APP，对于经常使用各种免费证书来签名的用户应该是非常有用。",
+      "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 8608965,
+      "type": 1
+     },
+  ]
+}
