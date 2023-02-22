@@ -17,6 +17,12 @@
       "isLanZouCloud": 0,
       "size": 8608965,
       "type": 1
+      "screenshotURLs": [
+        "https://ipa.store/wp-content/uploads/2023/01/202301140401203.jpg",
+        "https://ipa.store/wp-content/uploads/2023/01/2023011404010938.jpg",
+        "https://ipa.store/wp-content/uploads/2023/01/202301140402558.jpg",
+        "https://ipa.store/wp-content/uploads/2023/01/2023011404024510.jpg"
+      ]
     },
     {
       "name": "Blacklist",
@@ -31,9 +37,8 @@
       "tintColor": "161b1f",
       "size": 8608965,
       "screenshotURLs": [
-        "https://ipa.store/wp-content/uploads/2023/02/2023020503434868.jpg",
         "https://ipa.store/wp-content/uploads/2023/02/2023020503434868.jpg"
-      ],
-    },
+      ]
+    }
   ]
 }
