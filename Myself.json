@@ -34,7 +34,9 @@
       "iconURL": "https://github.com/ALLOC20/IPASourceJson/raw/main/blacklist.png",
       "tintColor": "483D8B",
       "size": 8608965,
-      "screenshotURLs": "https://ipa.store/wp-content/uploads/2023/02/2023020503434868.jpg"
+      "screenshotURLs": [
+        "https://ipa.store/wp-content/uploads/2023/02/2023020503434868.jpg"
+      ]
     }
   ]
 }
