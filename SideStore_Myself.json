@@ -12,15 +12,6 @@
       "versionDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
       "beta": true,
       "size": 8086081,
-      "versions": [
-        {
-          "version": "0.3.0-nightly.17",
-          "date": "2023-02-20",
-          "localizedDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
-          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-          "size": 8086081
-        }
-      ],
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
       "tintColor": "A405FA",
@@ -33,6 +24,17 @@
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png",
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
       ]
+    },
+    {
+      "name": "E.Sign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.7.6",
+      "versionDate": "2023-02-22",
+      "size": 8608965,
+      "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.7.6_unsigned.ipa",
+      "developerName": "ESign",
+      "localizedDescription": "轻松签是一款免费的手机ipa签名工具",
+      "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png"
     }
   ]
 }
