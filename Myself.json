@@ -17,8 +17,8 @@
       "isLanZouCloud": 0,
       "size": 8608965,
       "type": 1
-     },
-     {
+    },
+    {
       "name": "Blacklist",
       "bundleIdentifier": "com.alloc.blacklist",
       "developerName": "ALLOC",
@@ -29,9 +29,11 @@
       "localizedDescription": "《Blacklist》是支持 iOS15 ~ iOS 16.1.2证书被撤销失效之后可以让你正常打开使用这些证书签名的APP，对于经常使用各种免费证书来签名的用户应该是非常有用。",
       "iconURL": "https://github.com/ALLOC20/IPASourceJson/raw/main/blacklist.png",
       "tintColor": "161b1f",
-      "isLanZouCloud": 0,
       "size": 8608965,
-      "type": 1
-     },
+      "screenshotURLs": [
+        "https://ipa.store/wp-content/uploads/2023/02/2023020503434868.jpg",
+        "https://ipa.store/wp-content/uploads/2023/02/2023020503434868.jpg"
+      ],
+    },
   ]
 }
